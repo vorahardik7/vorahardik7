@@ -2,12 +2,8 @@
 🎓 MS in Computer Science – Santa Clara University  
 
 💼 Software Engineer with nearly 3 years of experience in Full-Stack Development and AI/ML applications.  
-
 🤖 Experienced in building scalable web applications, data pipelines, and AI-driven solutions that impact real users.  
-
-🛠️ Proficient in JavaScript (React.js, Next.js, TypeScript), Python, Java, Flask, Node.js, and modern cloud technologies (AWS, Docker).  
-
-🌍 Passionate about leveraging technology for practical, high-impact solutions.  
+🛠️ Proficient in JavaScript, TypeScript (React, Next.js), Python, Java, Flask, Node.js, and modern cloud technologies (AWS, GCP, Cloudflare).  
 
 ---
 
