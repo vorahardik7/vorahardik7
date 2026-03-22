@@ -1,12 +1,3 @@
-# 💫 About Me:
-🎓 MS in Computer Science – Santa Clara University  
-
-💼 Software Engineer with nearly 3 years of experience in Full-Stack Development and AI/ML applications.  
-🤖 Experienced in building scalable web applications, data pipelines, and AI-driven solutions that impact real users.  
-🛠️ Proficient in JavaScript, TypeScript (React, Next.js), Python, Java, Flask, Node.js, and modern cloud technologies (AWS, GCP, Cloudflare).  
-
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h-vora) 
 
